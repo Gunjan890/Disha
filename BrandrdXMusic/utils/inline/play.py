@@ -68,7 +68,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/APNA_GUNJAN"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/apna_gunjan"
             ),
             InlineKeyboardButton(
                 text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+eMDDlico9kRjNzg1"
@@ -90,7 +90,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/APNA_GUNJAN"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/@apna_gunjan"
             ),
             InlineKeyboardButton(
                 text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+eMDDlico9kRjNzg1"
